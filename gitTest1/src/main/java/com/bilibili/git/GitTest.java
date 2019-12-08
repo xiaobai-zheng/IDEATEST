@@ -3,7 +3,6 @@ package com.bilibili.git;
 public class GitTest {
     private String name;
     private String email;
-    private String str = "我是clonel";
 
     public String getName() {
         return name;
